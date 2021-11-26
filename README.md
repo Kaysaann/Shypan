@@ -9,7 +9,7 @@ Installing and Supported Versions
 
 Requests is available on PyPI:
 ```
-$ python -m pip install shypan
+$ py -m pip install shypan
 ```
 Officially works in Python 3.10+.
 
