@@ -1,5 +1,5 @@
 ### Shypan
-[![Downloads](https://img.shields.io/github/downloads/ShypanLib/Shypan/total.svg)](https://pypi.org/project/shypan/)
+[![Downloads](https://img.shields.io/github/downloads/ShypanLib/Shypan/total.svg)](https://pypi.org/project/ShypanLib/)
 [![Version](https://www.anthonycode.fr/images/python3.10_v.png)](https://www.anthonycode.fr/images/python3.10_v.png)  
 
 **Shypan**, a simple, easy to use, full-featured library written in Python.  
