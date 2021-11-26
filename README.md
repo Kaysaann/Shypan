@@ -15,9 +15,9 @@ Officially works in Python 3.10+.
 
 Cloning the repository
 -------------------------------------------------
-
-git clone https://github.com/ShypanLib/Shypan/
-
+```
+$ git clone https://github.com/ShypanLib/Shypan/
+```
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 Developed by **Shyba** and **Panda**
