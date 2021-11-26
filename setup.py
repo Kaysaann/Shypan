@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="shypan",
-    version="0.0.1.2",
+    version="0.0.1.4",
     author="ShypanLib",
     author_email="shypanlib@gmail.com",
     description="Librairie Shypan",
@@ -20,7 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    package_dir={"": "shypan"},
-    packages=setuptools.find_packages(where="shypan"),
+    package_dir={'': 'src'},
+    packages=setuptools.find_packages('src'),
     python_requires=">=3.10",
 )

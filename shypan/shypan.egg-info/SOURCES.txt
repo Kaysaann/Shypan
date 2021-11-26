@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-shypan/shypan.egg-info/PKG-INFO
-shypan/shypan.egg-info/SOURCES.txt
-shypan/shypan.egg-info/dependency_links.txt
-shypan/shypan.egg-info/top_level.txt
